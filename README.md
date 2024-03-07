@@ -1,1 +1,1 @@
-Mail-Client_Python
+Mail-Client-Python
